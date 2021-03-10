@@ -34,6 +34,8 @@
 		</div>
 		<div id="contents">
 		컨텐츠 부분입니다.
+        <img src="bigdata.jpeg">
+		<a href="index1.php">이전 페이지로 가기</a>
         <ul>
             <li>빅데이터경영통계 전공</li>
             <li>NLP 기반의 딥러닝 전공</li>
